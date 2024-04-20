@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@kingstea/quisquam-laudantium-tempore",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/kingstea/quisquam-laudantium-tempore.git"
   },
   "dependencies": {
+    "@kingstea/bug-free-octo-waddle": "^1.0.0",
+    "@kingstea/consequuntur-reiciendis-explicabo": "^1.0.0",
+    "@kingstea/dolorem-facilis-laudantium": "^1.0.0",
+    "@kingstea/rerum-repellat-omnis": "^1.0.0"
   }
 }
